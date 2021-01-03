@@ -10,6 +10,7 @@ function isPalindrome(word){
     });
 
     if(lettersArr.join('') === lettersArr.reverse().join('')) return true;
+    
     else return false;
 
 }
