@@ -1,0 +1,27 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Palindrome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh87/DSA.git"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Algorithms"
+  ],
+  "author": "Kaustubh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh87/DSA/issues"
+  },
+  "homepage": "https://github.com/kaustubh87/DSA#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
