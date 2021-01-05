@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/kaustubh87/DSA#readme",
   "dependencies": {
+    "chai": "^4.2.0",
     "mocha": "^8.2.1"
   }
 }

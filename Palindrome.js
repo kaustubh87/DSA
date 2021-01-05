@@ -1,4 +1,4 @@
-function isPalindrome(word){
+module.exports = { isPalindrome : (word) => {
 
     word = word.toLowerCase();
     let charArr = word.split('');
@@ -15,5 +15,5 @@ function isPalindrome(word){
 
 }
 
+};
 
-console.log(isPalindrome("Madam I',m Adam"));
